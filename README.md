@@ -1,7 +1,5 @@
 # Hi, I'm Lucas Napomucena
 
-I'm a front-end developer passionate about creating interactive and engaging user experiences. I love learning new technologies and enhancing my skills.
-
 ## 🛠️ Skills
 
 - Programming Languages: JavaScript, TypeScript
