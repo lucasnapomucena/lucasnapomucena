@@ -6,7 +6,7 @@
 - Frameworks/Libraries: React, Next.js, Angular
 - Tools: Git, Docker, Jenkins
 
-## 📫 Languages
+## 🗣 Languages
 
 - Portuguese - Native
 - English - B2
