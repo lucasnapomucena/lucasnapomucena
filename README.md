@@ -6,6 +6,11 @@
 - Frameworks/Libraries: React, Next.js, Angular
 - Tools: Git, Docker, Jenkins
 
+## 📫 Languages
+
+- Portuguese - Native
+- English - B2
+
 ## 📫 How to reach me
 
 - Email: [lucasnapomucena@gmail.com](mailto:lucasnapomucena@gmail.com) 
