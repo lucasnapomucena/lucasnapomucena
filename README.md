@@ -15,3 +15,7 @@
 
 - Email: [lucasnapomucena@gmail.com](mailto:lucasnapomucena@gmail.com) 
 - LinkedIn: [in/lucas-napomucena](https://www.linkedin.com/in/lucas-napomucena/)
+
+<img width="50" height="50" src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" />
+
+ 
