@@ -3,8 +3,11 @@
 ## 🛠️ Skills
 
 - Programming Languages: JavaScript, TypeScript
-- Frameworks/Libraries: React, Next.js, Angular
-- Tools: Git, Docker, Jenkins
+- Frameworks/Libraries: React, Next.js, Angular, NestJS, Express.js, Fastify
+- Databases: PostgreSQL, MongoDB
+- ORMs: Prisma
+- Tools: HTML5, CSS3, Tailwind CSS, Angular Material, Git, GitLab, Docker, Jenkins, RxJS, NgRx, Context API, Zustand
+- Agile Methodologies: Scrum
 
 ## 🗣 Languages
 
