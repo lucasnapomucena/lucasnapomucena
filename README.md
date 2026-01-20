@@ -54,7 +54,6 @@
 
 - 📧 Email: [lucasnapomucena@gmail.com](mailto:lucasnapomucena@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/lucas-napomucena](https://www.linkedin.com/in/lucas-napomucena)
-- 💻 GitHub: [github.com/lucasnapomucena](https://github.com/lucasnapomucena)
 
 ---
 
