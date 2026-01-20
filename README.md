@@ -1,24 +1,61 @@
-# Hi, I'm Lucas Napomucena
+# Hi, I'm Lucas Napomucena 👋
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-- Programming Languages: JavaScript, TypeScript
-- Frameworks/Libraries: React, Next.js, Angular, NestJS, Express.js, Fastify
-- Databases: PostgreSQL, MongoDB
-- ORMs: Prisma
-- Tools: HTML5, CSS3, Tailwind CSS, Angular Material, Git, GitLab, Docker, Jenkins, RxJS, NgRx, Context API, Zustand
-- Agile Methodologies: Scrum
+### Programming Languages
+- JavaScript (ES6+), TypeScript
+
+### Frontend
+- React, Next.js, Angular
+- RxJS, NgRx, Redux
+- Styled Components, Tailwind CSS, SCSS / SASS
+- Design Systems, Responsive Design, Accessibility (a11y)
+
+### Backend & APIs
+- Node.js
+- REST APIs, GraphQL
+- Apollo Client
+
+### Testing
+- Vitest
+- React Testing Library
+- Cypress (E2E)
+
+### Databases & ORM
+- PostgreSQL, MongoDB
+- Prisma
+
+### E-commerce & Platforms
+- VTEX
+
+### Mobile
+- Ionic
+- React Native
+
+### Build & Tooling
+- Docker
+- Vite, Webpack, Babel, Gulp
+- Git, GitLab, Jenkins
+
+### Agile
+- Scrum
+- Agile Methodologies
+
+---
 
 ## 🗣 Languages
 
-- Portuguese - Native
-- English - B2
+- Portuguese — Native
+- English — Advanced (B2+)
+
+---
 
 ## 📫 How to reach me
 
-- Email: [lucasnapomucena@gmail.com](mailto:lucasnapomucena@gmail.com) 
-- LinkedIn: [in/lucas-napomucena](https://www.linkedin.com/in/lucas-napomucena/)
+- 📧 Email: [lucasnapomucena@gmail.com](mailto:lucasnapomucena@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/lucas-napomucena](https://www.linkedin.com/in/lucas-napomucena)
+- 💻 GitHub: [github.com/lucasnapomucena](https://github.com/lucasnapomucena)
+
+---
 
 <img width="50" height="50" src="https://github.githubassets.com/assets/mona-loading-dark-7701a7b97370.gif" />
-
- 
