@@ -6,8 +6,8 @@
 - JavaScript (ES6+), TypeScript
 
 ### Frontend
-- React, Next.js, Angular
-- RxJS, NgRx, Redux
+- Angular, React, Next.js 
+- RxJS, NgRx, Redux, Zustand
 - Styled Components, Tailwind CSS, SCSS / SASS
 - Design Systems, Responsive Design, Accessibility (a11y)
 
