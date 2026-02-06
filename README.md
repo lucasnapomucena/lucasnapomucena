@@ -28,10 +28,6 @@
 ### E-commerce & Platforms
 - VTEX
 
-### Mobile
-- Ionic
-- React Native
-
 ### Build & Tooling
 - Docker
 - Vite, Webpack, Babel, Gulp
